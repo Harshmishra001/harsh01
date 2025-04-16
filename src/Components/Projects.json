@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "BlogNest – AI Powered Blogging Platform",
+    "Desc": "Developed an interactive blogging platform using React.js, Tailwind CSS, Node.js, Express.js, and Prisma ORM, enhancing user experience and performance.\n• Frontend: Designed an optimized UI with authentication, blog creation, editing, and exploration, improving load speed by 50%.\n• Backend: Built a scalable Express.js & Prisma ORM backend, reducing response time by 50%.\n• AI Integration: Automated blog generation and updates, doubling content efficiency.\n• Security: Implemented JWT authentication, enhancing data protection by 40%.",
+    "GithubLink": "https://github.com/Harshmishra001/Blogging-frontend",
+    "Demo": "https://blogging-frontend-gamma.vercel.app/",
+    "ImgSrc": "./BlogNest.png"
+  },
+  
+  {
+    "Name": "XenoPay – Paytm-Wallet",
+    "Desc": "Developed a Paytm-like digital wallet platform with responsive UI and secure backend using Next.js, Express.js, and PostgreSQL.\n• Frontend: Built a responsive Next.js UI with P2P transactions & money addition, improving UX by 60%.\n• Backend: Developed fast transaction processing with Express.js & Node.js, boosting speed by 40%.\n• Security: Integrated NextAuth & Bcrypt for authentication, enhancing security by 80%.\n• Database: Used Prisma ORM & PostgreSQL for efficient data handling, reducing retrieval time by 30%.",
+    "GithubLink": "https://github.com/Harshmishra001/xenopay", 
+    "Demo": "https://xenopay-user-app.vercel.app/", 
+    "ImgSrc": "./XenoPay.png"
+  }
+  ,
+  
+  {
+    "Name": "Uber – Ride Booking Platform",
+    "Desc": "Engineered a real-time ride booking platform using the MERN stack, with live tracking, optimized performance, and seamless user experience.\n• Authentication: Built sign-in, sign-up, and dashboard with MERN stack, improving efficiency by 30%.\n• Real-time Updates: Used Socket.IO for ride creation, captain acceptance, and live tracking, reducing latency by 50% and improving reliability by 40%.\n• Database Optimization: Optimized MongoDB queries, cutting query time by 40% and enhancing processing efficiency by 30%.\n• Live Tracking: Integrated Google Maps API for real-time location services, boosting user satisfaction by 60%.",
+    "GithubLink": "https://github.com/Harshmishra001/uber",
+    "Demo": "https://uber-wmrc.vercel.app/",
+    "ImgSrc": "./Uber.png"
+  }
+  
+  ]
+  

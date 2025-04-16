@@ -1,0 +1,47 @@
+[
+    {
+      "Name": "GitHub Mastery:From Beginner to Advanced",
+      "Company": "GeeksforGeeks",
+      "IssueDate": "Feb 2025",
+      "Link": "https://media.geeksforgeeks.org/courses/certificates/ae114a916815ee755838135bc1e63671.pdf",
+      "ImgSrc": "./githubmaster.png"
+    },
+  
+    {
+      "Name": "Web developer Intern certificate ",
+      "Company": "IIT Bombay",
+      "IssueDate": "Oct 2024",
+      "Link": "https://www.linkedin.com/in/harsh-mishra001/details/certifications/1728412946053/single-media-viewer/?profileId=ACoAAD7D1MUBT64I-bhxBD44nYVhsGKDEKVQMlg",
+      "ImgSrc": "./Bombay.png"
+    },
+    {
+      "Name": "Vultr Cloud Innovate Hackathon",
+      "Company": "GeeksforGeeks",
+      "IssueDate": "Nov 2024",
+      "Link": "https://media.geeksforgeeks.org/auth-certificates/1733682600/8bf75b048db3f3ecf5e74af5c7588e97.png",
+      "ImgSrc": "./hackathon.png"
+    },
+    {
+      "Name": "Full Stack Development",
+      "Company": "GeeksforGeeks",
+      "IssueDate": "Dec 2023",
+      "Link": "https://media.geeksforgeeks.org/courses/certificates/23ceb252a1193e2b93e1a76341a02294.pdf",
+      "ImgSrc": "./fullstack.png"
+    },
+  
+    {
+      "Name": "Java With DSA And System Design",
+      "Company": "PhysicsWallah",
+      "IssueDate": "Mar 2024",
+      "Link": "https://pwskills.com/learn/certificate/2ec9fc85-7fab-44b9-b6c1-cf418b0f56a5/",
+      "ImgSrc": "./JAVA.png"
+    },
+    {
+      "Name": " DSA Problem Solving for Interviews using Java ",
+      "Company": "Scalar",
+      "IssueDate": "Sep 2024",
+      "Link": "https://moonshot.scaler.com/s/li/JwJyW8rogG",
+      "ImgSrc": "./scalar.png"
+    }
+  ]
+  
