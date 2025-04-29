@@ -18,9 +18,9 @@
 
   {
     "Name": "Weather App",
-    "Desc": "Developed a weather app using HTML, CSS, JavaScript, and OpenWeatherMap API, providing real-time weather updates and forecasts.\n• Frontend: Designed an interactive UI with weather data display, improving user engagement by 70%.\n• Backend: Integrated OpenWeatherMap API for real-time weather data, boosting accuracy by 90%.\n• Responsive Design: Ensured a responsive UI across devices, enhancing accessibility by 80%.",
-    "GithubLink": "https://github.com/Harshmishra001/Weather-App",
-    "Demo": "https://weather-app-phi-silk.vercel.app/",
+    "Desc": "Advanced Weather App: A 100% responsive, feature-rich weather app built with React (30%), Vite (20%), and Tailwind CSS (20%). It offers real-time weather data (15%), 5-day forecasts with charts and maps (25%), AQI monitoring (5%), unit toggling (3%), theme switching (2%), and geolocation + search history (5%). Powered by the OpenWeatherMap API and local storage for preferences.",
+    "GithubLink": "https://github.com/Harshmishra001/Weather-Appp",
+    "Demo": "https://weather-appp-c434.vercel.app/",
     "ImgSrc": "./Weather.png"
   }
   
