@@ -50,6 +50,8 @@ export default function Home() {
           Software Developer | Problem Solver
         </motion.p>
 
+
+
         {/* Social Links with 3D Effect */}
         <div className="text-white text-3xl md:text-4xl flex gap-8 mt-6">
           <SocialLink href="mailto:harsh.mishra.332003@gmail.com" iconClass="fa-solid fa-envelope" ariaLabel="Email" />
