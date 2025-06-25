@@ -16,10 +16,10 @@
     "ImgSrc": "./Hirrd.png"
   },
   {
-    "Name": "BlogNest – AI Powered Blogging Platform",
-    "Desc": "Developed an interactive blogging platform using React.js, Tailwind CSS, Node.js, Express.js, and Prisma ORM, enhancing user experience and performance.\n• Frontend: Designed an optimized UI with authentication, blog creation, editing, and exploration, improving load speed by 50%.\n• Backend: Built a scalable Express.js & Prisma ORM backend, reducing response time by 50%.\n• AI Integration: Automated blog generation and updates, doubling content efficiency.\n• Security: Implemented JWT authentication, enhancing data protection by 40%.",
-    "GithubLink": "https://github.com/Harshmishra001/Blogging-frontend",
-    "Demo": "https://blogging-frontend-gamma.vercel.app/",
+    "Name": "BlogNest –  Blogging Platform",
+    "Desc": "Developed an interactive blogging platform using React.js, Tailwind CSS, Node.js, Express.js, and Prisma ORM, enhancing user experience and performance.\n• Frontend: Designed an optimized UI with authentication, blog creation, editing, and exploration, improving load speed by 50%.\n• Backend: Built a scalable Express.js & Prisma ORM backend, reducing response time by 50%.\n• Security: Implemented JWT authentication, enhancing data protection by 40%.",
+    "GithubLink": "https://github.com/Harshmishra001/blognest-frontend",
+    "Demo": "https://blognest-frontend-x5dv.vercel.app/",
     "ImgSrc": "./BlogNest.png"
   }
   
