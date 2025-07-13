@@ -9,7 +9,7 @@
   }
   ,
   {
-    "Name": "Hirrd – Next-Gen Employment Platform                                                                                        ",
+    "Name": "Hirrd – Employment Platform                                                                                        ",
     "Desc": "Built a modern job portal with real-time Supabase backend and secure Clerk-based authentication, featuring role-based dashboards, advanced job search filters, and responsive UI with dark mode and animations. Enhanced user engagement, application tracking, and form validation using React Hook Form, Zod, Tailwind CSS, and Shadcn UI.",
     "GithubLink": "https://github.com/Harshmishra001/Hirrd/tree/master/Hirrd",
     "Demo": "https://hirrd-umber.vercel.app/",
