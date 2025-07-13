@@ -3,8 +3,8 @@
   {
     "Name": "XenoPay – Paytm-Wallet",
     "Desc": "Developed a Paytm-like digital wallet platform with responsive UI and secure backend using Next.js, Express.js, and PostgreSQL.\n• Frontend: Built a responsive Next.js UI with P2P transactions & money addition, improving UX by 60%.\n• Backend: Developed fast transaction processing with Express.js & Node.js, boosting speed by 40%.\n• Security: Integrated NextAuth & Bcrypt for authentication, enhancing security by 80%.\n• Database: Used Prisma ORM & PostgreSQL for efficient data handling, reducing retrieval time by 30%.",
-    "GithubLink": "https://github.com/Harshmishra001/xenopay", 
-    "Demo": "https://xenopay-user-app.vercel.app/", 
+    "GithubLink": "https://github.com/Harshmishra001/Xenopayy", 
+    "Demo": "https://xenopayy.vercel.app/", 
     "ImgSrc": "./XenoPay.png"
   }
   ,
@@ -16,10 +16,10 @@
     "ImgSrc": "./Hirrd.png"
   },
   {
-    "Name": "BlogNest –  Blogging Platform",
+    "Name": "BlogNest –  AI Powered Blogging Platform",
     "Desc": "Developed an interactive blogging platform using React.js, Tailwind CSS, Node.js, Express.js, and Prisma ORM, enhancing user experience and performance.\n• Frontend: Designed an optimized UI with authentication, blog creation, editing, and exploration, improving load speed by 50%.\n• Backend: Built a scalable Express.js & Prisma ORM backend, reducing response time by 50%.\n• Security: Implemented JWT authentication, enhancing data protection by 40%.",
-    "GithubLink": "https://github.com/Harshmishra001/blognest-frontend",
-    "Demo": "https://blognest-frontend-x5dv.vercel.app/",
+    "GithubLink": "https://github.com/Harshmishra001/Blognest-frontendd",
+    "Demo": "https://blognest-frontendd.vercel.app/",
     "ImgSrc": "./BlogNest.png"
   }
   

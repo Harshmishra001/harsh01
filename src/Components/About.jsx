@@ -68,10 +68,9 @@ export default function About() {
 
   <li>
     <strong className="text-sky-400">XenoPay – Paytm-Wallet:</strong>  
-    - Frontend: Built a responsive Next.js UI with P2P transactions & money addition, improving UX by 60%.  
-- Backend: Developed fast transaction processing with Express.js & Node.js, boosting speed by 40%.  
-- Security: Integrated NextAuth & Bcrypt for authentication, enhancing security by 80%.  
-- Database: Used Prisma ORM & PostgreSQL for efficient data handling, reducing retrieval time by 30%.
+    - Created a responsive and intuitive frontend using Next.js, Tailwind CSS, and Material UI (MUI), enabling seamless P2P transactions, recent transaction tracking, and money addition, resulting in a 60% improvement in UI responsiveness and smoother user experience.
+- Built secure and scalable backend APIs using Next.js API routes, integrated Bcrypt for user authentication and password hashing, and implemented login, money addition, and transaction processing logic, boosting API performance and backend reliability by 40%.
+- Utilized MongoDB for flexible and scalable data storage, optimized database queries for faster retrieval, and ensured smooth data handling, leading to a 30% reduction in data access latency and improved system efficiency
   </li>
 
   <li>
